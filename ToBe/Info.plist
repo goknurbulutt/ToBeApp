@@ -21,5 +21,7 @@
 			</array>
 		</dict>
 	</dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>When you add the places you want to go to our application, we need to access your location so that we can provide you with a roadmap.</string>
 </dict>
 </plist>
